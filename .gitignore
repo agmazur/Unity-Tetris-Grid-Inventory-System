@@ -77,3 +77,5 @@ crashlytics-build.properties
 .idea/.idea.Unity Tetris Grid Inventory System/.idea/projectSettingsUpdater.xml
 .idea/.idea.Unity Tetris Grid Inventory System/.idea/vcs.xml
 .idea/.idea.Unity Tetris Grid Inventory System/.idea/workspace.xml
+# some vscode bullshit
+.vscode
